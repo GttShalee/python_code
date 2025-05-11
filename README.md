@@ -1,1 +1,6 @@
-This is a README file.
+# 任务记录表
+
+| 日期 | 题目名称 | 备注 |
+| --- | --- | --- |
+| 2025-05-10 | Rotate image | 数组的观察与翻转 |
+| 2025-05-11 | Group Anagrams | 字符串的转换 |
